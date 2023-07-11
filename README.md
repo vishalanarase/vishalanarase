@@ -1,24 +1,35 @@
-
-<img alt="Night Coding" src="HandWave.gif" width='40' align="left"/><h2>Hey there! I'm Vishal Anarase</h2>
+# Hello, folks! <img src="HandWave.gif" width="40" align="left"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.
+My name is Vishal Anarase and I'm a software developer engineer. I'm from Pune and currently working at Civo.
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Technologies Stack
 
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=007ACC)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2C2255)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)\
 
-### ⚙️ &nbsp;GitHub Analytics
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Cloud-Civo-informational?style=flat&logo=civo&logoColor=white&color=2bbc8a)
+
+### ⚙️ &nbsp;GitHub Stats
 
 <p align="center">
 <a href="https://github.com/vishalanarase">
   <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishalanarase&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishalanarase&layout=compact&langs_count=8&theme=algolia"/>
+  <!--<img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishalanarase&hide=JavaScript,html,tex,scss&layout=compact&langs_count=8&theme=algolia"/>-->
 </a>
 </p>
 
