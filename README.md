@@ -6,12 +6,6 @@ My name is Vishal Anarase and I'm a software developer engineer. I'm from Pune a
 
 ### 🛠 &nbsp;Technologies Stack
 
-![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=007ACC)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2C2255)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)\
-
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
