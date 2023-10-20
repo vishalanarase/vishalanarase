@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-My name is Vishal Anarase and I'm a software developer engineer. I'm from Pune and currently working at Civo.
+> I am Vishal, Software Developer Engineer working with Open Source, Cloud Native around Kubernetes and Golang as a programming language
 
 ### 🛠 &nbsp;Technologies Stack
 
