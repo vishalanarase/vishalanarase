@@ -34,7 +34,7 @@
 <a href="https://www.linkedin.com/in/vishal-anarase-623707104/"><img src="https://img.shields.io/badge/-Vishal%20Anarase-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/vishalanarase"><img src="https://img.shields.io/badge/-@vishalanarase-00ACEE?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.youtube.com/@vishal.anarase"><img src="https://img.shields.io/badge/-@vishal.anarase-CD201F?style=flat&logo=Youtube&logoColor=white"/></a>
-<a href="mailto:vishalanarase11@gmail.com"><img src="https://img.shields.io/badge/-vishalanarase11@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:vishalanarase11@gmail.com"><img src="https://img.shields.io/badge/-iamvishalanarase@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <!--
