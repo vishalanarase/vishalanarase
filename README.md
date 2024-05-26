@@ -19,7 +19,7 @@
 
 ### ⚙️ &nbsp;GitHub Stats
 
-<p align="center">
+<p>
 <a href="https://github.com/vishalanarase">
   <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishalanarase&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <!--  <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishalanarase&layout=compact&langs_count=8&theme=algolia"/>
@@ -29,12 +29,12 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://vishalanarase.github.io/"><img src="https://img.shields.io/badge/-vishalanarase.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vishal-anarase-623707104/"><img src="https://img.shields.io/badge/-Vishal%20Anarase-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/vishalanarase"><img src="https://img.shields.io/badge/-@vishalanarase-00ACEE?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.youtube.com/@vishal.anarase"><img src="https://img.shields.io/badge/-@vishal.anarase-CD201F?style=flat&logo=Youtube&logoColor=white"/></a>
-<a href="mailto:vishalanarase11@gmail.com"><img src="https://img.shields.io/badge/-iamvishalanarase@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<p>
+</br><a href="https://vishalanarase.github.io/"><img src="https://img.shields.io/badge/-vishalanarase.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+</br></br><a href="https://www.linkedin.com/in/vishal-anarase-623707104/"><img src="https://img.shields.io/badge/-Vishal%20Anarase-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</br></br><a href="https://twitter.com/vishalanarase"><img src="https://img.shields.io/badge/-@vishalanarase-00ACEE?style=flat&logo=Twitter&logoColor=white"/></a>
+</br></br><a href="https://www.youtube.com/@vishal.anarase"><img src="https://img.shields.io/badge/-@vishal.anarase-CD201F?style=flat&logo=Youtube&logoColor=white"/></a>
+</br></br><a href="mailto:vishalanarase11@gmail.com"><img src="https://img.shields.io/badge/-iamvishalanarase@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <!--
