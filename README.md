@@ -4,7 +4,7 @@
 
 > I am Vishal, Software Developer Engineer working with Open Source, Cloud Native around Kubernetes and Golang as a programming language
 
-> 👨🏻‍💻 *@Civo @Kubernetes |* 🚀 *Release Team @kubernetes-sigs CAPI | KCNA CKA CKAD | Cloud Native | Open Source*
+> 👨🏻‍💻 *@Civo @Kubernetes |* 🚀 *Release Team @kubernetes-sigs CAPI | CNCF Kubestronaut | Cloud Native | Open Source*
 
 > **Kubernetes | Golang | Docker | RESTful API | Microservices | Keen Programmer | Enthusiastic of Knowledge | MS in Computer Science**
 
