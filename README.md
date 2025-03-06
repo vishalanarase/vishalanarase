@@ -1,6 +1,7 @@
-# Hello, folks! <img src="HandWave.gif" width="40" align="left"/>
 
-## 👨🏻‍💻  About Me
+<!--# Hello, folks! <img src="HandWave.gif" width="40" align="left"/>-->
+
+# 👨🏻‍💻  About Me
 
 **Senior Software Engineer @Civo** 💻 | **CNCF Kubestronaut** 🚀 | **Docker Captain** 🐳 | **Cloud Native** ☁️ | **Open Source Contributor** 🌍 | **Golang** 🦸‍♂️ | **Creator and Life** 👍
 
