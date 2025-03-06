@@ -1,13 +1,36 @@
 # Hello, folks! <img src="HandWave.gif" width="40" align="left"/>
 
+## 👨🏻‍💻  About Me
+
+**Senior Software Engineer @Civo | CNCF Kubestronaut | Docker Captain | Cloud Native | Open Source Contributor | Golang | Creator and Life** 👍
+
+Hi, I’m Vishal. I specialize in **Kubernetes**, **Open Source**, and **Cloud Native** technologies using **Golang**. With several years of experience, I’ve built deep expertise in **Docker** and various cloud services.
+
+Outside of my professional work, I’m actively engaged in the Kubernetes and Docker communities:
+- Contributed to the **Cloud Provider Interface** and **Cluster API** projects for **Kubernetes**.
+- Serving as a **Docker Captain**, supporting and representing the Docker community.
+- Volunteering with **CNCF** to organize **Kubernetes Community Meetups** in Pune.
+- Proud to be a **CNCF Kubestronaut**.
+
+---
+
+<!--
 ### 👨🏻‍💻 &nbsp;About Me
 
-> I am Vishal, Software Developer Engineer working with Open Source, Cloud Native around Kubernetes and Golang as a programming language
+**Engineer @civo @kubernetes | CNCF Kubestronaut | Docker Captain | Cloud Native | Open Source | Creator and Life** 👍
 
-> 👨🏻‍💻 *@Civo @Kubernetes |* 🚀 *Release Team @kubernetes-sigs CAPI | CNCF Kubestronaut | Cloud Native | Open Source*
+> I'm Vishal, Senior Software Engineer with a strong focus on Kubernetes, Open Source and Cloud Native technologies using Golang. Over the past several years, I’ve developed a deep expertise in Docker and various cloud services.
 
-> **Kubernetes | Golang | Docker | RESTful API | Microservices | Keen Programmer | Enthusiastic of Knowledge | MS in Computer Science**
+- Beyond my work at the office, I'm actively involved in the Kubernetes and Docker communities:
+  - Contributed to the Cloud Provider Interface and Cluster API projects for Kubernetes
+  - Serving as a Docker Captain, representing and supporting the Docker community
+  - Volunteering with CNCF to organize Kubernetes Community Meetups in Pune
+  - Proud to be a CNCF Kubestronaut
 
+-->
+
+
+<!---
 ### 🛠 &nbsp;Technologies Stack
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -27,7 +50,8 @@
 <a href="https://github.com/vishalanarase">
   <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishalanarase&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <!--  <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishalanarase&layout=compact&langs_count=8&theme=algolia"/>
-<img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishalanarase&hide=JavaScript,html,tex,scss&layout=compact&langs_count=8&theme=algolia"/>-->
+<img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishalanarase&hide=JavaScript,html,tex,scss&layout=compact&langs_count=8&theme=algolia"/>--> 
+<!--
 </a>
 </p>
 
