@@ -4,7 +4,7 @@
 
 **Senior Software Engineer @Civo** 💻 | **CNCF Kubestronaut** 🚀 | **Docker Captain** 🐳 | **Cloud Native** ☁️ | **Open Source Contributor** 🌍 | **Golang** 🦸‍♂️ | **Creator and Life** 👍
 
-Hello, I’m Vishal. I specialize in **Kubernetes** ⚙️, **Open Source** 🌍, and **Cloud Native** ☁️ technologies using **Golang** 🦸‍♂️. With several years of experience, I’ve built deep expertise in **Docker** 🐳 and various cloud services ☁️.
+Hello, I’m Vishal. I specialize in **Kubernetes** ⚙️ **Open Source** 🌍 and **Cloud Native** ☁️ technologies using **Golang** 🦸‍♂️ With several years of experience, I’ve built deep expertise in **Docker** 🐳 and various cloud services ☁️
 
 Outside of my professional work, I’m actively engaged in the Kubernetes and Docker communities:
 - Contributed to the **Cloud Provider Interface** and **Cluster API** projects for **Kubernetes** ⚙️
