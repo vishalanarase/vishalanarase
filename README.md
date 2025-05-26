@@ -15,6 +15,10 @@ Outside of my professional work, I’m actively engaged in the Kubernetes and Do
 
 ---
 
+## CNCF Dev Stats
+
+[![DevStats Card](https://devstats.me/?username=vishalanarase)](https://github.com/vishalanarase/devstats-card)
+
 <!--
 ### 👨🏻‍💻 &nbsp;About Me
 
