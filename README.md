@@ -10,7 +10,7 @@ Hello, I’m Vishal. I specialize in **Kubernetes** ⚙️ **Open Source** 🌍 
 Outside of my professional work, I’m actively engaged in the Kubernetes and Docker communities:
 - Contributed to the **Cloud Provider Interface** and **Cluster API** projects for **Kubernetes** ⚙️
 - Serving as a **Docker Captain** 🐳, supporting and representing the Docker community
-- Volunteering with **CNCF** 🌐 to organize **Kubernetes Community Meetups** in Pune 📍
+- Volunteering with **CNCF** 🌐 to organize **Kubernetes Community Meetups** in [CNCG - Kubernetes Pune](https://community.cncf.io/kubernetes-pune/)
 - Proud to be a **CNCF Kubestronaut** 🚀
 
 ---
