@@ -5,14 +5,14 @@
 
 **Senior Software Engineer** 💻 | **CNCF Kubestronaut** 🚀 | **Docker Captain** 🐳 | **Cloud Native** ☁️ | **Open Source Contributor** 🌍 | **Golang** 🦸‍♂️ | **Creator and Life** 👍
 
-Hello, I’m Vishal. I specialize in **Kubernetes** ⚙️ **Open Source** 🌍 and **Cloud Native** ☁️ technologies using **Golang** 🦸‍♂️ With several years of experience, I’ve built deep expertise in **Docker** 🐳 and various cloud services ☁️
+I am specialized in **Kubernetes** ⚙️ **Open Source** 🌍 and **Cloud Native** ☁️ technologies using **Golang** 🦸‍♂️ With several years of experience, I’ve built deep expertise in **Docker** 🐳 and various cloud services ☁️
 
 Outside of my professional work, My mission is to learn, build, and share in the Kubernetes and Docker communities:
 - Contributed to the **Cloud Provider Interface** and [**Cluster API**](https://github.com/kubernetes-sigs/cluster-api/commits/main/?author=vishalanarase) projects for **Kubernetes** ⚙️
 - Serving as a [**Docker Captain**](https://www.docker.com/captains/vishal-anarase/) 🐳, supporting and representing the Docker community
 - Volunteering with **CNCF** 🌐 to organize **Kubernetes Community Meetups** in [**CNCG - Kubernetes Pune**](https://community.cncf.io/kubernetes-pune/)
 - Proud to be a [**CNCF Kubestronaut**](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=in&p=vishal-anarase)
-- Sharing knowledge through [**Blog**](https://vishalanarase.is-a.dev/), **Tutorials**, and **Talks** at conferences and meetups 
+- Sharing knowledge through [**Blog**](https://vishalanarase.is-a.dev/), **Tutorials**, and **Talks** at conferences and meetups
 
 ---
 
