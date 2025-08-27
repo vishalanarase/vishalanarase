@@ -31,13 +31,13 @@ Outside of my professional work, My mission is to learn, build, and share in the
 
 <img height="42" align="left" alt="CKA" width="42" src="https://raw.githubusercontent.com/vishalanarase/vishalanarase/refs/heads/master/assets/kcna.svg" style="max-width: 100%;">
 
-<img height="42" align="left" alt="CKA" width="42" src="https://raw.githubusercontent.com/vishalanarase/vishalanarase/refs/heads/master/assets/kcsa.svg" style="max-width: 100%;">
-
 <img height="42" align="left" alt="CKA" width="42" src="https://raw.githubusercontent.com/vishalanarase/vishalanarase/refs/heads/master/assets/cka.svg" style="max-width: 100%;">
 
 <img height="42" align="left" alt="CKAD" width="42" src="https://raw.githubusercontent.com/vishalanarase/vishalanarase/refs/heads/master/assets/ckad.svg" style="max-width: 100%;">
 
 <img height="42" align="left" alt="CKS" width="42" src="https://raw.githubusercontent.com/vishalanarase/vishalanarase/refs/heads/master/assets/cks.svg" style="max-width: 100%;">
+
+<img height="42" align="left" alt="CKA" width="42" src="https://raw.githubusercontent.com/vishalanarase/vishalanarase/refs/heads/master/assets/kcsa.svg" style="max-width: 100%;">
 
 <!--
 ### 👨🏻‍💻 &nbsp;About Me
