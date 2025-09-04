@@ -9,7 +9,7 @@
 
 I am specialized in **Kubernetes**, **Open Source** and **Cloud Native** technologies using **Golang** With several years of experience, I’ve built deep expertise in **Kubernetes**, **Open Source** and **Docker** 🐳 with various cloud services
 
-Outside of my professional work, My mission is to learn, build, and share in the Kubernetes and Docker communities:
+Outside of my professional work, My mission is to learn, build, and share in the CNCF, Kubernetes and Docker communities:
 - Contributed to the [**Cloud Provider Interface**](https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler/cloudprovider) and [**Cluster API**](https://github.com/kubernetes-sigs/cluster-api/commits/main/?author=vishalanarase) projects for **Kubernetes**
 - Serving as a [**Docker Captain**](https://www.docker.com/captains/vishal-anarase/), supporting and representing the Docker community
 - Volunteering with [**CNCF**](https://www.cncf.io/) to organize [**Community Meetups**](https://community.cncf.io/) in [**CNCG - Kubernetes Pune**](https://community.cncf.io/kubernetes-pune/)
